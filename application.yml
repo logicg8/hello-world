@@ -7,4 +7,4 @@ eureka:
       defaultZone: http://localhost:8671/eureka
 my-pass: '{cipher}9bf876152c256befdd5f1ca90fe08bd074c86e0d462b7de72787629af1da7379'
 greeting:
-  message: Hello
+  message: Hi
